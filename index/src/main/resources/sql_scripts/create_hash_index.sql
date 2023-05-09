@@ -1,0 +1,1 @@
+create index birthday_hash_index ON customer (birthday) USING HASH;

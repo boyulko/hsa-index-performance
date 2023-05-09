@@ -1,0 +1,1 @@
+DROP INDEX birthday_btree_index ON customer;
